@@ -28,3 +28,7 @@ Due to the large size of the Boost library, this repository includes a split
 version (8 parts) of the original tarball distributed by Boost. The script
 create-boost-parts_1.88.0.sh is used to generate the split files.
 
+
+The file gsl-2.8.tar.gz was downloaded from https://ftp.gnu.org/gnu/gsl/
+
+The file zlib-1.4.tar.gz was downloaded from https://zlib.net/
